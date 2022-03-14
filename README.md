@@ -1,5 +1,9 @@
 # Kubeflow Manifests
 
+## External Contributions
+Aurora is currently not accepting contributions from external contributors in this repo. Any 
+improvements to features or bug fixes should be contributed to the [upstream repo](https://github.com/kubeflow/manifests).
+
 ## Table of Contents
 
 <!-- toc -->

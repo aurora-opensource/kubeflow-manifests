@@ -1,7 +1,12 @@
-*.idea
-.vscode
 .DS_Store
 
+# IDE
+.ijwb/
+*.iml
+*.idea
+.vscode
+
+# Python compiled files
 **/*.pyc
 
 # Swap
